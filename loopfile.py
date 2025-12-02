@@ -18,3 +18,16 @@
 # while a<=i:
 #     print(a)
 #     a+=1
+
+# a=int(input("number"))
+# b=7
+# while b<=a:
+#     print(b)
+#     b+=7
+
+# i=int(input("number :"))        
+# a=1
+# while a<=10:
+#          print(i*a)
+#          print(a)
+#          a+=1
