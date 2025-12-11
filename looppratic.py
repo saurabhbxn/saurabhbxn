@@ -26,3 +26,26 @@
 #  add=add+c
 #  i+=1
 #  print(add)
+
+# while True :
+#     number =int(input("Enter A number:"))
+#     if number > 0:
+#         break
+#     print ("out of the loop")
+     
+# counter = 0
+# while counter <=0:
+#     counter +=1
+#     if counter %2==0:
+#         continue
+#     print(counter)
+   
+# counter = 1
+# while counter <=5:
+#     number =int(input("Enter a number:"))
+#     if number < 0:
+#         exit(0)
+#         counter +=1
+#         print("hello")
+
+
